@@ -1,0 +1,34 @@
+_repo: Secret-Societies-of-the-Middle-Ages_38785
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Keightley, Thomas
+    birthdate: 1789
+    deathdate: 1872
+    gutenberg_agent_id: '4962'
+    url: http://www.gutenberg.org/2009/agents/4962
+description: 'This is Thomas Keightley''s history of three secret societies of the
+  Middle Ages: the Assassins, the Templars and the Fehmgerichte. A well-researched
+  and detailed work on secret societies, Keightley gives a rather contemporary view,
+  and with Dan Brown''s The Da Vinci Code bringing secret societies to the attention
+  of modern audiences over recent years, this ebook is even more interesting to readers
+  today. The Assassins chapter begins by introducing the state of the world in the
+  Seventh Century, a brief history of Islam, and Keightley then goes on to discuss
+  many of the influenti.'
+gutenberg_issued: '2012-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38785'
+  lccn: '17021617'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HS'
+- !lcsh 'Secret societies'
+title: Secret Societies of the Middle Ages
+url: http://www.gutenberg.org/ebooks/38785
